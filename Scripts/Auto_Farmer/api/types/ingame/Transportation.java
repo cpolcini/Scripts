@@ -7,7 +7,7 @@ public enum Transportation {
 	private String transportation_option;
 	private int transportation_id;
 	
-	Transportation(String transportation_option, int transportation_id;) {
+	Transportation(String transportation_option, int transportation_id) {
 		this.transportation_option = transportation_option;
 		this.transportation_id = transportation_id;
 	}
