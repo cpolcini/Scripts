@@ -1,0 +1,26 @@
+TODO:
+	Change Herb Patch Locations to entire farm area
+	Add Patch Type specific Areas to Locations
+
+Workers:
+	Banker:
+		v1. Withdraws all necessary farming and transportation items
+		v2. Withdraws and equips weight reducers/ teleport jewelery	
+	Traveler:
+		v1. Teleports and walks to the next farm patch
+		v2. Protects melee in unsafe areas
+		v3. Option to teleport without house and use stamina potions
+	HouseEnterer
+		v1. Enters own or friends house for traveling purposes
+		v2. Finds a POH
+	Farmer
+		v1. 1. Picks herb if grown, Cures if diseased, Removes if dead
+			2. Rakes if weeds, uses compost, and plants seed
+	InventoryManager
+		v1. Notes herbs via leprachaun and drops weeds
+		v2. Notes at next patches leprachaun if that is more efficient
+	
+
+	
+	
+	
